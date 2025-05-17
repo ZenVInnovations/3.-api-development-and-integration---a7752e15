@@ -89,12 +89,12 @@ Install dependencies:
 npm install
 ```
 
-Start the React development server:
+Start the React development server:-
 
 ```sh
 npm run dev
 ```
-
+Then click on the provided link.
 
 
 ## How to Use
