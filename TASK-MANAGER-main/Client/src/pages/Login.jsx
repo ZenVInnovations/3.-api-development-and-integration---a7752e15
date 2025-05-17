@@ -36,7 +36,7 @@ const Login = () => {
         <form className="mt-6 space-y-5" onSubmit={handleSubmit}>
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Email address
+              Email addressess
             </label>
             <input
               type="email"
