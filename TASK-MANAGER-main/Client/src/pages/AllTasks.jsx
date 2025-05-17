@@ -8,7 +8,7 @@ const AllTasks = () => {
       <Navbar />
 
       <section>
-        <h1>All Task Here</h1>
+        <h1>Tasks List</h1>
       </section>
     </>
   );
